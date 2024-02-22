@@ -1,0 +1,7 @@
+{
+  "name": "webdriveruni",
+  "type": "module",
+  "devDependencies": {
+    "@wdio/cli": "^8.32.3"
+  }
+}
